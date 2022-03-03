@@ -13,3 +13,7 @@ This project consisted on creating a dashboard that displayed information about 
 * HTML/CSS
 
 ## Results
+
+The final result was an interactive dashboard presented in a convinient way to end users through Github Pages.
+
+github/https://pady7.github.io/Belly-Button-Biodiversity/
